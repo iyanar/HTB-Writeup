@@ -1,5 +1,5 @@
 # HTB-Writeup
-<h4>Password-protected writeups for HTB platform (challenges and boxes)</h4><br>
+<h3>Password-protected writeups for HTB platform (challenges and boxes)</h3><br>
 <b>Website: <a href="https://www.hackthebox.eu/">HackTheBox</a></b> <br>
 <b>Challenges and Boxes Writeups are password protected with the {Root flag}</b> <br>
 <h1>Description</h1>
