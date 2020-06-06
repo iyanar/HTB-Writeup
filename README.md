@@ -4,3 +4,4 @@
 <b>Challenges and Boxes Writeups are password protected with the {Root flag}</b> <br>
 <h1>Description</h1>
     <b>Hack The Box is an online platform allowing you to test and advance your skills in cyber security. The platform allows to machines (using a VPN) and presents some challenges like Web, Misc, Crypto, Pwn, Reversing, etc...</b></br>
+<p><b>WARNING:</b> Some files in these folders could be dangerous (backdoor, reverse-shell, exploit, shellcode, ...) use them at your own risk.</p>
